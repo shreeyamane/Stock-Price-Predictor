@@ -99,3 +99,12 @@ Enter the company name: RELIANCE.
 Enter the future date: 2025-05-01.
 
 The predicted stock price for RELIANCE on the given date will be displayed along with a graph showing the historical prices and the predicted price.
+
+Acknowledgements
+yfinance for fetching the stock data.
+
+Scikit-learn for the machine learning tools.
+
+Tkinter for building the user interface.
+
+Matplotlib for data visualization.
