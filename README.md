@@ -13,6 +13,7 @@ Stock Symbol Matching: Allows users to input the company name, and the applicati
 Graphical Representation: Displays historical stock prices along with the predicted price for the future date.
 
 Technologies Used
+
 Python: Main programming language.
 
 yfinance: To fetch historical stock data from Yahoo Finance.
