@@ -54,8 +54,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/stock-price-prediction.git
-cd stock-price-prediction
+git clone https://github.com/shreeyamane/Stock-Price-Predictor.git
+cd Stock-Price-Predictor
 Make sure the EQUITY_L.csv file is in the same directory as the script. This file contains the stock symbols and company names used for matching.
 
 Run the project:
@@ -79,17 +79,11 @@ SYMBOL	NAME OF COMPANY
 RELIANCE	RELIANCE INDUSTRIES LIMITED
 INFY	INFOSYS TECHNOLOGIES LIMITED
 Example Usage
-Enter the company name: RELIANCE.
+Enter the company name: RELIANCE INDUSTRIES LIMITED
 
-Enter the future date: 2025-05-01.
+Enter the future date: 2026-01-01.
 
 The predicted stock price for RELIANCE on the given date will be displayed along with a graph showing the historical prices and the predicted price.
-
-Contributing
-If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. Please ensure that your code adheres to the style guidelines and is thoroughly tested.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
 yfinance for fetching the stock data.
