@@ -100,11 +100,9 @@ Enter the future date: 2025-05-01.
 
 The predicted stock price for RELIANCE on the given date will be displayed along with a graph showing the historical prices and the predicted price.
 
-Acknowledgements
-yfinance for fetching the stock data.
+## Acknowledgements
 
-Scikit-learn for the machine learning tools.
-
-Tkinter for building the user interface.
-
-Matplotlib for data visualization.
+- [yfinance](https://github.com/ranaroussi/yfinance) for fetching the stock data.  
+- [Scikit-learn](https://scikit-learn.org/) for the machine learning tools.  
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) for building the user interface.  
+- [Matplotlib](https://matplotlib.org/) for data visualization.
