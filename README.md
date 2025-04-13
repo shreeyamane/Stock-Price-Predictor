@@ -38,9 +38,6 @@ Follow these steps to run the project on your local machine:
 Step 1: Clone the Repository
 To get the project files, you need to clone the repository to your local machine. Open your terminal or command prompt and run the following command:
 
-bash
-Copy
-Edit
 git clone https://github.com/shreeyamane/Stock-Price-Predictor.git
 cd Stock-Price-Predictor
 This will download the project and navigate to the project folder.
@@ -48,10 +45,9 @@ This will download the project and navigate to the project folder.
 Step 2: Install Dependencies
 Make sure you have Python 3.x installed on your system. Then, you need to install the required Python libraries. You can do this using pip by running the following command:
 
-bash
-Copy
-Edit
+
 pip install yfinance pandas numpy scikit-learn matplotlib
+
 Step 3: Prepare the EQUITY_L.csv File
 Ensure the EQUITY_L.csv file is in the same directory as the Python script (stock_predictor.py). The CSV file contains stock symbols and corresponding company names, which are necessary for the application to function.
 
@@ -60,9 +56,7 @@ You can obtain the file from the appropriate source or use your own dataset with
 Step 4: Run the Project
 Now you are ready to run the project. In your terminal or command prompt, run the following command:
 
-bash
-Copy
-Edit
+
 python stock_predictor.py
 This will start the project and open a GUI window where you can:
 
