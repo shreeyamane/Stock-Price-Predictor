@@ -31,6 +31,7 @@ You can install the required libraries by running:
 
 ```bash
 pip install yfinance pandas numpy scikit-learn matplotlib
+```bash
 
 ## How to Run the Project
 Follow these steps to run the project on your local machine:
